@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.ankit_kkumar.newsProject"
     },
     "web": {
       "favicon": "./assets/favicon.png"
